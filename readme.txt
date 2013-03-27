@@ -18,6 +18,7 @@ Creating a new openFrameworks project:
 The easiest way to create a new openFrameworks project is to copy one that's similar to what you want to do. 
 
 OF Examples follow the app directory structure pattern (e.g. apps/categoryName/appName) and are grouped by topic/addon.
+s
 
 For example:
 
