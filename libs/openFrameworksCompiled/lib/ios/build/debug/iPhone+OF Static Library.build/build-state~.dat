@@ -1,0 +1,1849 @@
+TiPhone+OF Static Library
+v4
+r1
+cCheck dependencies
+cCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofxAccelerometer.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxAccelerometer/src/ofxAccelerometer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/of3dUtils.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/of3dUtils.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofCamera.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofCamera.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofEasyCam.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofEasyCam.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofMesh.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofMesh.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofNode.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofNode.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofAppRunner.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/app/ofAppRunner.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofEvents.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/events/ofEvents.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofFbo.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofFbo.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk
+c000000004E7840290000000000000110
+t1316503593
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004E7807DB000000000015F8A0
+t1316489179
+s1439904
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004E72F36E00000000005AF640
+t1316156270
+s5961280
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c000000004E72F310000000000007BCB0
+t1316156176
+s507056
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004E72F28700000000003AB0A0
+t1316156039
+s3846304
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004E7805AD0000000000076750
+t1316488621
+s485200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c000000004E78069100000000000748C0
+t1316488849
+s477376
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c000000004E72F744000000000001A9B0
+t1316157252
+s108976
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E72F3440000000000529540
+t1316156228
+s5412160
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004E78098C00000000000AF270
+t1316489612
+s717424
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c000000004E72F3C20000000000022660
+t1316156354
+s140896
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004E72F6E00000000000017190
+t1316157152
+s94608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004E72F8910000000000173260
+t1316157585
+s1520224
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004E7808C7000000000078BE50
+t1316489415
+s7913040
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk
+c000000004F2FD00A0000000000000110
+t1328533514
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004E7806CF000000000018D430
+t1316488911
+s1627184
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004E72F1F200000000002F4210
+t1316155890
+s3097104
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c000000004E72F1BC00000000000B3E00
+t1316155836
+s736768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004E72F1CC0000000000245480
+t1316155852
+s2380928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004E78059F00000000000859A0
+t1316488607
+s547232
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c000000004E780641000000000006B1C0
+t1316488769
+s438720
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c000000004E72F588000000000001EA80
+t1316156808
+s125568
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E72F2960000000000353830
+t1316156054
+s3487792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004E7807EF00000000000D89E0
+t1316489199
+s887264
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c000000004E72F2280000000000029350
+t1316155944
+s168784
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004E72F52C000000000001D2E0
+t1316156716
+s119520
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004E72F69C00000000001A9D20
+t1316157084
+s1744160
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004E7806AB00000000008F7390
+t1316488875
+s9401232
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/addons/ofxAccelerometer/src/ofxAccelerometer.h
+c0000000051238AF600000000000019F8
+t1361283830
+s6648
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxAccelerometer/src/ofxAccelerometer.cpp
+c0000000051238AF6000000000000075A
+t1361283830
+s1882
+i"ofxAccelerometer.h"
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxMultiTouch/src/ofxMultiTouch.cpp
+c0000000051238AF80000000000000AB7
+t1361283832
+s2743
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/app/ofAppiPhoneWindow.mm
+c0000000051238B0C00000000000025A9
+t1361283852
+s9641
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/core/ofxiOSEAGLView.mm
+c0000000051238B0C00000000000024DF
+t1361283852
+s9439
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/core/ofxiPhoneAppDelegate.mm
+c0000000051238B0C0000000000002AF0
+t1361283852
+s10992
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/core/ofxiPhoneViewController.mm
+c0000000051238B0C0000000000000464
+t1361283852
+s1124
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/events/ofxiPhoneAccelerometer.mm
+c0000000051238B0C0000000000000D44
+t1361283852
+s3396
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/events/ofxiPhoneAlerts.mm
+c0000000051238B0C0000000000000718
+t1361283852
+s1816
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/gl/EAGLView.m
+c0000000051238B0C0000000000002729
+t1361283852
+s10025
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/gl/ES1Renderer.m
+c0000000051238B0C0000000000001492
+t1361283852
+s5266
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/gl/ES2Renderer.m
+c0000000051238B0C0000000000001F66
+t1361283852
+s8038
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/sound/SoundEngine.cpp
+c0000000051238B0C000000000000AEF3
+t1361283852
+s44787
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/sound/ofxOpenALSoundPlayer.cpp
+c0000000051238B0C0000000000003925
+t1361283852
+s14629
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/sound/ofxiPhoneSoundStream.mm
+c0000000051238B0C000000000000345D
+t1361283852
+s13405
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneCoreLocation.mm
+c0000000051238B0C00000000000023BC
+t1361283852
+s9148
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneExternalDisplay.mm
+c0000000051238B0C00000000000018EF
+t1361283852
+s6383
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneExtras.mm
+c0000000051238B0C0000000000004306
+t1361283852
+s17158
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneImagePicker.mm
+c0000000051238B0C000000000000467D
+t1361283852
+s18045
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneKeyboard.mm
+c0000000051238B0C00000000000027A3
+t1361283852
+s10147
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneMapKit.mm
+c0000000051238B0C0000000000002229
+t1361283852
+s8745
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneMapKitDelegate.mm
+c0000000051238B0C0000000000000B87
+t1361283852
+s2951
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/video/AVFoundationVideoGrabber.mm
+c0000000051238B0C0000000000002FAA
+t1361283852
+s12202
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/video/AVFoundationVideoPlayer.m
+c0000000051238B0C0000000000004F89
+t1361283852
+s20361
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/video/ofiPhoneVideoGrabber.mm
+c0000000051238B0C000000000000055E
+t1361283852
+s1374
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/video/ofiPhoneVideoPlayer.mm
+c0000000051238B0C00000000000053BF
+t1361283852
+s21439
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/of3dUtils.cpp
+c0000000051238B1A0000000000001034
+t1361283866
+s4148
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofCamera.cpp
+c0000000051238B1A0000000000001A80
+t1361283866
+s6784
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofEasyCam.cpp
+c0000000051238B1A0000000000001CE4
+t1361283866
+s7396
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofMesh.cpp
+c0000000051238B1A0000000000006576
+t1361283866
+s25974
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofNode.cpp
+c0000000051238B1A000000000000251E
+t1361283866
+s9502
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/app/ofAppRunner.cpp
+c0000000051238B1A0000000000002740
+t1361283866
+s10048
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/events/ofEvents.cpp
+c0000000051238B1A0000000000001ABF
+t1361283866
+s6847
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofFbo.cpp
+c0000000051238B1A0000000000006D1F
+t1361283866
+s27935
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofGLRenderer.cpp
+c0000000051238B1A0000000000008566
+t1361283866
+s34150
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofLight.cpp
+c0000000051238B1A0000000000002B80
+t1361283866
+s11136
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofMaterial.cpp
+c0000000051238B1A0000000000000963
+t1361283866
+s2403
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofShader.cpp
+c0000000051238B1A0000000000004686
+t1361283866
+s18054
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofTexture.cpp
+c0000000051238B1A000000000000869A
+t1361283866
+s34458
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofVbo.cpp
+c0000000051238B1A0000000000003B04
+t1361283866
+s15108
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofVboMesh.cpp
+c0000000051238B1A000000000000112C
+t1361283866
+s4396
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofBitmapFont.cpp
+c0000000051238B1A000000000000A0A2
+t1361283866
+s41122
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofGraphics.cpp
+c0000000051238B1A00000000000081BD
+t1361283866
+s33213
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofImage.cpp
+c0000000051238B1A0000000000008A28
+t1361283866
+s35368
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofPath.cpp
+c0000000051238B1A000000000000491C
+t1361283866
+s18716
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofPixels.cpp
+c0000000051238B1A0000000000005AF4
+t1361283866
+s23284
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofPolyline.cpp
+c0000000051238B1A0000000000005DCF
+t1361283866
+s24015
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofTessellator.cpp
+c0000000051238B1A00000000000016E1
+t1361283866
+s5857
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofTrueTypeFont.cpp
+c0000000051238B1A00000000000065C2
+t1361283866
+s26050
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofMath.cpp
+c0000000051238B1A0000000000002356
+t1361283866
+s9046
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofMatrix3x3.cpp
+c0000000051238B1A0000000000001824
+t1361283866
+s6180
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofMatrix4x4.cpp
+c0000000051238B1A000000000000AC90
+t1361283866
+s44176
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofQuaternion.cpp
+c0000000051238B1A00000000000024C4
+t1361283866
+s9412
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofVec2f.cpp
+c0000000051238B1A00000000000000C7
+t1361283866
+s199
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofVec4f.cpp
+c0000000051238B1A00000000000000E7
+t1361283866
+s231
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/sound/ofBaseSoundPlayer.cpp
+c0000000051238B1A0000000000000021
+t1361283866
+s33
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/sound/ofBaseSoundStream.cpp
+c0000000051238B1A00000000000000BC
+t1361283866
+s188
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/sound/ofOpenALSoundPlayer.cpp
+c0000000051238B1A00000000000067A8
+t1361283866
+s26536
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/sound/ofSoundPlayer.cpp
+c0000000051238B1A0000000000001355
+t1361283866
+s4949
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/sound/ofSoundStream.cpp
+c0000000051238B1A0000000000000FB6
+t1361283866
+s4022
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/types/ofBaseTypes.cpp
+c0000000051238B1A00000000000014F2
+t1361283866
+s5362
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/types/ofColor.cpp
+c0000000051238B1A0000000000007BF2
+t1361283866
+s31730
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/types/ofPoint.cpp
+c0000000051238B1A0000000000000015
+t1361283866
+s21
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/types/ofRectangle.cpp
+c0000000051238B1A00000000000056A1
+t1361283866
+s22177
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofFileUtils.cpp
+c0000000051238B1A000000000000A077
+t1361283866
+s41079
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofLog.cpp
+c0000000051238B1A0000000000001C07
+t1361283866
+s7175
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofSystemUtils.cpp
+c0000000051238B1A0000000000007050
+t1361283866
+s28752
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofThread.cpp
+c0000000051238B1A00000000000011BD
+t1361283866
+s4541
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofURLFileLoader.cpp
+c0000000051238B1A000000000000178A
+t1361283866
+s6026
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofUtils.cpp
+c0000000051238B1A0000000000004B4F
+t1361283866
+s19279
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/video/ofVideoGrabber.cpp
+c0000000051238B1A0000000000001DE0
+t1361283866
+s7648
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/video/ofVideoPlayer.cpp
+c0000000051238B1A0000000000002A2B
+t1361283866
+s10795
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/AVFoundationVideoGrabber.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/AVFoundationVideoPlayer.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/EAGLView.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ES1Renderer.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ES2Renderer.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/SoundEngine.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/of3dUtils.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofAppRunner.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofAppiPhoneWindow.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofBaseSoundPlayer.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofBaseSoundStream.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofBaseTypes.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofBitmapFont.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofCamera.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofColor.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofEasyCam.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofEvents.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofFbo.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofFileUtils.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofGLRenderer.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofGraphics.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofImage.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofLight.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofLog.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofMaterial.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofMath.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofMatrix3x3.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofMatrix4x4.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofMesh.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofNode.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofOpenALSoundPlayer.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofPath.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofPixels.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofPoint.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofPolyline.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofQuaternion.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofRectangle.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofShader.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofSoundPlayer.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofSoundStream.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofSystemUtils.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofTessellator.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofTexture.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofThread.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofTrueTypeFont.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofURLFileLoader.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofUtils.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofVbo.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofVboMesh.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofVec2f.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofVec4f.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofVideoGrabber.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofVideoPlayer.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofiPhoneVideoGrabber.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofiPhoneVideoPlayer.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofxAccelerometer.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofxMultiTouch.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofxOpenALSoundPlayer.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofxiOSEAGLView.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofxiPhoneAccelerometer.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofxiPhoneAlerts.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofxiPhoneAppDelegate.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofxiPhoneCoreLocation.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofxiPhoneExternalDisplay.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofxiPhoneExtras.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofxiPhoneImagePicker.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofxiPhoneKeyboard.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofxiPhoneMapKit.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofxiPhoneMapKitDelegate.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofxiPhoneSoundStream.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofxiPhoneViewController.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofxiPhone_iphoneos_Debug.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/AVFoundationVideoGrabber.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/AVFoundationVideoPlayer.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/EAGLView.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ES1Renderer.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ES2Renderer.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/SoundEngine.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/of3dUtils.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofAppRunner.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofAppiPhoneWindow.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofBaseSoundPlayer.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofBaseSoundStream.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofBaseTypes.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofBitmapFont.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofCamera.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofColor.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofEasyCam.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofEvents.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofFbo.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofFileUtils.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofGLRenderer.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofGraphics.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofImage.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofLight.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofLog.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofMaterial.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofMath.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofMatrix3x3.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofMatrix4x4.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofMesh.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofNode.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofOpenALSoundPlayer.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofPath.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofPixels.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofPoint.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofPolyline.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofQuaternion.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofRectangle.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofShader.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofSoundPlayer.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofSoundStream.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofSystemUtils.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofTessellator.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofTexture.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofThread.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofTrueTypeFont.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofURLFileLoader.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofUtils.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofVbo.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofVboMesh.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofVec2f.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofVec4f.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofVideoGrabber.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofVideoPlayer.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofiPhoneVideoGrabber.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofiPhoneVideoPlayer.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofxAccelerometer.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofxMultiTouch.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofxOpenALSoundPlayer.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofxiOSEAGLView.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneAccelerometer.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneAlerts.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneAppDelegate.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneCoreLocation.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneExternalDisplay.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneExtras.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneImagePicker.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneKeyboard.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneMapKit.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneMapKitDelegate.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneSoundStream.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneViewController.o
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhone_iphonesimulator_Debug.LinkFileList
+c0000000051380C0A000000000000318D
+t1362627594
+s12685
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/libofxiPhone_iphoneos_Debug.a
+t2
+s0
+
+N/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/libofxiPhone_iphonesimulator_Debug.a
+t2
+s0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxAccelerometer/src/ofxAccelerometer.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxMultiTouch/src/ofxMultiTouch.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/app/ofAppiPhoneWindow.mm
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/core/ofxiOSEAGLView.mm
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/core/ofxiPhoneAppDelegate.mm
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/core/ofxiPhoneViewController.mm
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/events/ofxiPhoneAccelerometer.mm
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/events/ofxiPhoneAlerts.mm
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/gl/EAGLView.m
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/gl/ES1Renderer.m
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/gl/ES2Renderer.m
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/sound/SoundEngine.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/sound/ofxOpenALSoundPlayer.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/sound/ofxiPhoneSoundStream.mm
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneCoreLocation.mm
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneExternalDisplay.mm
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneExtras.mm
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneImagePicker.mm
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneKeyboard.mm
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneMapKit.mm
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneMapKitDelegate.mm
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/video/AVFoundationVideoGrabber.mm
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/video/AVFoundationVideoPlayer.m
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/video/ofiPhoneVideoGrabber.mm
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/video/ofiPhoneVideoPlayer.mm
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/of3dUtils.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofCamera.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofEasyCam.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofMesh.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofNode.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/app/ofAppRunner.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/events/ofEvents.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofFbo.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofGLRenderer.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofLight.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofMaterial.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofShader.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofTexture.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofVbo.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofVboMesh.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofBitmapFont.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofGraphics.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofImage.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofPath.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofPixels.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofPolyline.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofTessellator.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofTrueTypeFont.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofMath.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofMatrix3x3.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofMatrix4x4.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofQuaternion.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofVec2f.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofVec4f.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/sound/ofBaseSoundPlayer.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/sound/ofBaseSoundStream.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/sound/ofOpenALSoundPlayer.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/sound/ofSoundPlayer.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/sound/ofSoundStream.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/types/ofBaseTypes.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/types/ofColor.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/types/ofPoint.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/types/ofRectangle.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofFileUtils.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofLog.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofSystemUtils.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofThread.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofURLFileLoader.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofUtils.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/video/ofVideoGrabber.cpp
+r0
+
+CBuild AST from /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/video/ofVideoPlayer.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies5188548943e8b641^8ec92e8a43e8b641^---0#1#0#--18"Check dependencies36"D1CE6DE5-FB55-418F-9DEC-F9C3A8078E5B-
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/AVFoundationVideoGrabber.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/video/AVFoundationVideoGrabber.mm normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/AVFoundationVideoPlayer.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/video/AVFoundationVideoPlayer.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/EAGLView.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/gl/EAGLView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ES1Renderer.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/gl/ES1Renderer.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ES2Renderer.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/gl/ES2Renderer.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/SoundEngine.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/sound/SoundEngine.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/of3dUtils.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/of3dUtils.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofAppRunner.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/app/ofAppRunner.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofAppiPhoneWindow.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/app/ofAppiPhoneWindow.mm normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofBaseSoundPlayer.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/sound/ofBaseSoundPlayer.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofBaseSoundStream.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/sound/ofBaseSoundStream.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofBaseTypes.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/types/ofBaseTypes.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofBitmapFont.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofBitmapFont.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofCamera.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofCamera.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofColor.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/types/ofColor.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofEasyCam.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofEasyCam.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofEvents.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/events/ofEvents.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofFbo.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofFbo.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofFileUtils.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofFileUtils.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofGLRenderer.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofGLRenderer.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofGraphics.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofGraphics.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofImage.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofImage.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofLight.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofLight.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofLog.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofLog.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofMaterial.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofMaterial.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofMath.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofMath.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofMatrix3x3.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofMatrix3x3.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofMatrix4x4.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofMatrix4x4.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofMesh.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofMesh.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofNode.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofNode.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofOpenALSoundPlayer.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/sound/ofOpenALSoundPlayer.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofPath.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofPath.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofPixels.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofPixels.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofPoint.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/types/ofPoint.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofPolyline.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofPolyline.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofQuaternion.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofQuaternion.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofRectangle.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/types/ofRectangle.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofShader.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofShader.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofSoundPlayer.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/sound/ofSoundPlayer.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofSoundStream.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/sound/ofSoundStream.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofSystemUtils.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofSystemUtils.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofTessellator.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofTessellator.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofTexture.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofTexture.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofThread.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofThread.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofTrueTypeFont.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofTrueTypeFont.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofURLFileLoader.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofURLFileLoader.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofUtils.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofUtils.cpp normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofVbo.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofVbo.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofVboMesh.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofVboMesh.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofVec2f.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofVec2f.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofVec4f.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofVec4f.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofVideoGrabber.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/video/ofVideoGrabber.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofVideoPlayer.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/video/ofVideoPlayer.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofiPhoneVideoGrabber.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/video/ofiPhoneVideoGrabber.mm normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofiPhoneVideoPlayer.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/video/ofiPhoneVideoPlayer.mm normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofxAccelerometer.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxAccelerometer/src/ofxAccelerometer.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofxMultiTouch.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxMultiTouch/src/ofxMultiTouch.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofxOpenALSoundPlayer.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/sound/ofxOpenALSoundPlayer.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofxiOSEAGLView.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/core/ofxiOSEAGLView.mm normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofxiPhoneAccelerometer.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/events/ofxiPhoneAccelerometer.mm normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofxiPhoneAlerts.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/events/ofxiPhoneAlerts.mm normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofxiPhoneAppDelegate.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/core/ofxiPhoneAppDelegate.mm normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofxiPhoneCoreLocation.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneCoreLocation.mm normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofxiPhoneExternalDisplay.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneExternalDisplay.mm normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofxiPhoneExtras.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneExtras.mm normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofxiPhoneImagePicker.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneImagePicker.mm normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofxiPhoneKeyboard.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneKeyboard.mm normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofxiPhoneMapKit.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneMapKit.mm normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofxiPhoneMapKitDelegate.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneMapKitDelegate.mm normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofxiPhoneSoundStream.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/sound/ofxiPhoneSoundStream.mm normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/armv7/ofxiPhoneViewController.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/core/ofxiPhoneViewController.mm normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/AVFoundationVideoGrabber.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/video/AVFoundationVideoGrabber.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/AVFoundationVideoPlayer.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/video/AVFoundationVideoPlayer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/EAGLView.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/gl/EAGLView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ES1Renderer.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/gl/ES1Renderer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ES2Renderer.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/gl/ES2Renderer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/SoundEngine.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/sound/SoundEngine.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/of3dUtils.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/of3dUtils.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s384320394.308812
+e384320396.859369
+r1
+xCompileC
+x../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/of3dUtils.o
+x/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/of3dUtils.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Compile /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/of3dUtils.cpp4d2d4f8a43e8b641^62f5db8c43e8b641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-384320394#0#70#-0#--30"Apple LLVM compiler 3.0 Notice--0#0#0#-19%DVTDocumentLocation3@142"file://localhost/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/of3dUtils.cpp0000000000000000^3783"CompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/of3dUtils.o" ../../../openFrameworks/3d/of3dUtils.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wnon-virtual-dtor -Woverloaded-virtual -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 "-I/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/ofxiPhone_iphonesimulator_Debug.hmap" -I/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../addons/ofxiPhone -I../../../../addons/ofxiPhone/src -I../../../../addons/ofxiPhone/src/app -I../../../../addons/ofxiPhone/src/core -I../../../../addons/ofxiPhone/src/events -I../../../../addons/ofxiPhone/src/gl -I../../../../addons/ofxiPhone/src/sound -I../../../../addons/ofxiPhone/src/utils -I../../../../addons/ofxiPhone/src/video -I../../../../addons/ofxMultiTouch -I../../../../addons/ofxMultiTouch/src -I../../../../addons/ofxAccelerometer -I../../../../addons/ofxAccelerometer/src -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/rtaudio/include -I../../../../libs/glu/include_ios "-I/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/DerivedSources/i386" "-I/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/DerivedSources" -Wno-non-virtual-dtor -Wno-overloaded-virtual -F/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF "/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/of3dUtils.d" -c /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/of3dUtils.cpp -o "/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/of3dUtils.o"36"42E336FC-EEF8-48A6-8F67-6B8E1430ADA2-
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofAppRunner.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/app/ofAppRunner.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s384320398.406639
+e384320400.210622
+r1
+xCompileC
+x../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofAppRunner.o
+x/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/app/ofAppRunner.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Compile /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/app/ofAppRunner.cpp3f56688e43e8b641^68ea359043e8b641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-384320398#0#70#-0#--30"Apple LLVM compiler 3.0 Notice--0#0#0#-19%DVTDocumentLocation3@145"file://localhost/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/app/ofAppRunner.cpp0000000000000000^3795"CompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofAppRunner.o" ../../../openFrameworks/app/ofAppRunner.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wnon-virtual-dtor -Woverloaded-virtual -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 "-I/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/ofxiPhone_iphonesimulator_Debug.hmap" -I/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../addons/ofxiPhone -I../../../../addons/ofxiPhone/src -I../../../../addons/ofxiPhone/src/app -I../../../../addons/ofxiPhone/src/core -I../../../../addons/ofxiPhone/src/events -I../../../../addons/ofxiPhone/src/gl -I../../../../addons/ofxiPhone/src/sound -I../../../../addons/ofxiPhone/src/utils -I../../../../addons/ofxiPhone/src/video -I../../../../addons/ofxMultiTouch -I../../../../addons/ofxMultiTouch/src -I../../../../addons/ofxAccelerometer -I../../../../addons/ofxAccelerometer/src -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/rtaudio/include -I../../../../libs/glu/include_ios "-I/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/DerivedSources/i386" "-I/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/DerivedSources" -Wno-non-virtual-dtor -Wno-overloaded-virtual -F/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF "/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofAppRunner.d" -c /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/app/ofAppRunner.cpp -o "/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofAppRunner.o"36"172A3D97-FF9D-44CD-B5D1-C69E522AB2FC-
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofAppiPhoneWindow.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/app/ofAppiPhoneWindow.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofBaseSoundPlayer.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/sound/ofBaseSoundPlayer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofBaseSoundStream.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/sound/ofBaseSoundStream.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofBaseTypes.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/types/ofBaseTypes.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofBitmapFont.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofBitmapFont.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofCamera.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofCamera.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s384320396.860837
+e384320397.562015
+r1
+xCompileC
+x../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofCamera.o
+x/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofCamera.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Compile /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofCamera.cpp3080dc8c43e8b641^6edf8f8d43e8b641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-384320396#0#70#-0#--30"Apple LLVM compiler 3.0 Notice--0#0#0#-19%DVTDocumentLocation3@141"file://localhost/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofCamera.cpp0000000000000000^3778"CompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofCamera.o" ../../../openFrameworks/3d/ofCamera.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wnon-virtual-dtor -Woverloaded-virtual -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 "-I/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/ofxiPhone_iphonesimulator_Debug.hmap" -I/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../addons/ofxiPhone -I../../../../addons/ofxiPhone/src -I../../../../addons/ofxiPhone/src/app -I../../../../addons/ofxiPhone/src/core -I../../../../addons/ofxiPhone/src/events -I../../../../addons/ofxiPhone/src/gl -I../../../../addons/ofxiPhone/src/sound -I../../../../addons/ofxiPhone/src/utils -I../../../../addons/ofxiPhone/src/video -I../../../../addons/ofxMultiTouch -I../../../../addons/ofxMultiTouch/src -I../../../../addons/ofxAccelerometer -I../../../../addons/ofxAccelerometer/src -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/rtaudio/include -I../../../../libs/glu/include_ios "-I/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/DerivedSources/i386" "-I/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/DerivedSources" -Wno-non-virtual-dtor -Wno-overloaded-virtual -F/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF "/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofCamera.d" -c /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofCamera.cpp -o "/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofCamera.o"36"4DAFC6AC-D4AF-4721-9A05-F2799D8B20C9-
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofColor.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/types/ofColor.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofEasyCam.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofEasyCam.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s384320396.908434
+e384320397.663358
+r1
+xCompileC
+x../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofEasyCam.o
+x/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofEasyCam.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Compile /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofEasyCam.cppa3afe88c43e8b641^d3d9a98d43e8b641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-384320396#0#70#-0#--30"Apple LLVM compiler 3.0 Notice--0#0#0#-19%DVTDocumentLocation3@142"file://localhost/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofEasyCam.cpp0000000000000000^3783"CompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofEasyCam.o" ../../../openFrameworks/3d/ofEasyCam.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wnon-virtual-dtor -Woverloaded-virtual -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 "-I/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/ofxiPhone_iphonesimulator_Debug.hmap" -I/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../addons/ofxiPhone -I../../../../addons/ofxiPhone/src -I../../../../addons/ofxiPhone/src/app -I../../../../addons/ofxiPhone/src/core -I../../../../addons/ofxiPhone/src/events -I../../../../addons/ofxiPhone/src/gl -I../../../../addons/ofxiPhone/src/sound -I../../../../addons/ofxiPhone/src/utils -I../../../../addons/ofxiPhone/src/video -I../../../../addons/ofxMultiTouch -I../../../../addons/ofxMultiTouch/src -I../../../../addons/ofxAccelerometer -I../../../../addons/ofxAccelerometer/src -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/rtaudio/include -I../../../../libs/glu/include_ios "-I/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/DerivedSources/i386" "-I/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/DerivedSources" -Wno-non-virtual-dtor -Wno-overloaded-virtual -F/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF "/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofEasyCam.d" -c /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofEasyCam.cpp -o "/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofEasyCam.o"36"2633BE5A-AACD-49DC-94FA-20E6FBEF66EB-
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofEvents.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/events/ofEvents.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s384320398.947158
+e384320401.028696
+r1
+xCompileC
+x../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofEvents.o
+x/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/events/ofEvents.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Compile /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/events/ofEvents.cppbb98f28e43e8b641^1459079143e8b641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-384320398#0#70#-0#--30"Apple LLVM compiler 3.0 Notice--0#0#0#-19%DVTDocumentLocation3@145"file://localhost/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/events/ofEvents.cpp0000000000000000^3786"CompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofEvents.o" ../../../openFrameworks/events/ofEvents.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wnon-virtual-dtor -Woverloaded-virtual -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 "-I/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/ofxiPhone_iphonesimulator_Debug.hmap" -I/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../addons/ofxiPhone -I../../../../addons/ofxiPhone/src -I../../../../addons/ofxiPhone/src/app -I../../../../addons/ofxiPhone/src/core -I../../../../addons/ofxiPhone/src/events -I../../../../addons/ofxiPhone/src/gl -I../../../../addons/ofxiPhone/src/sound -I../../../../addons/ofxiPhone/src/utils -I../../../../addons/ofxiPhone/src/video -I../../../../addons/ofxMultiTouch -I../../../../addons/ofxMultiTouch/src -I../../../../addons/ofxAccelerometer -I../../../../addons/ofxAccelerometer/src -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/rtaudio/include -I../../../../libs/glu/include_ios "-I/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/DerivedSources/i386" "-I/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/DerivedSources" -Wno-non-virtual-dtor -Wno-overloaded-virtual -F/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF "/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofEvents.d" -c /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/events/ofEvents.cpp -o "/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofEvents.o"36"3447460E-8661-481E-907A-87CD384CD187-
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofFbo.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofFbo.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s384320400.211916
+e384320401.129881
+r1
+xCompileC
+x../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofFbo.o
+x/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofFbo.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Compile /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofFbo.cpp7c61369043e8b641^1440219143e8b641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-384320400#0#70#-0#--30"Apple LLVM compiler 3.0 Notice--0#0#0#-19%DVTDocumentLocation3@138"file://localhost/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofFbo.cpp0000000000000000^3763"CompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofFbo.o" ../../../openFrameworks/gl/ofFbo.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wnon-virtual-dtor -Woverloaded-virtual -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 "-I/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/ofxiPhone_iphonesimulator_Debug.hmap" -I/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../addons/ofxiPhone -I../../../../addons/ofxiPhone/src -I../../../../addons/ofxiPhone/src/app -I../../../../addons/ofxiPhone/src/core -I../../../../addons/ofxiPhone/src/events -I../../../../addons/ofxiPhone/src/gl -I../../../../addons/ofxiPhone/src/sound -I../../../../addons/ofxiPhone/src/utils -I../../../../addons/ofxiPhone/src/video -I../../../../addons/ofxMultiTouch -I../../../../addons/ofxMultiTouch/src -I../../../../addons/ofxAccelerometer -I../../../../addons/ofxAccelerometer/src -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/rtaudio/include -I../../../../libs/glu/include_ios "-I/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/DerivedSources/i386" "-I/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/DerivedSources" -Wno-non-virtual-dtor -Wno-overloaded-virtual -F/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF "/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofFbo.d" -c /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofFbo.cpp -o "/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofFbo.o"36"AADE9A6C-EF1C-4363-BE0E-6A4B49A36E5D-
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofFileUtils.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofFileUtils.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofGLRenderer.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofGLRenderer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofGraphics.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofGraphics.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofImage.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofImage.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofLight.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofLight.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofLog.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofLog.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofMaterial.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofMaterial.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofMath.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofMath.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofMatrix3x3.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofMatrix3x3.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofMatrix4x4.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofMatrix4x4.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofMesh.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofMesh.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s384320397.563347
+e384320398.945827
+r1
+xCompileC
+x../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofMesh.o
+x/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofMesh.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Compile /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofMesh.cpp7958908d43e8b641^17f2748f43e8b641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-384320397#0#70#-0#--30"Apple LLVM compiler 3.0 Notice--0#0#0#-19%DVTDocumentLocation3@139"file://localhost/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofMesh.cpp0000000000000000^3768"CompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofMesh.o" ../../../openFrameworks/3d/ofMesh.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wnon-virtual-dtor -Woverloaded-virtual -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 "-I/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/ofxiPhone_iphonesimulator_Debug.hmap" -I/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../addons/ofxiPhone -I../../../../addons/ofxiPhone/src -I../../../../addons/ofxiPhone/src/app -I../../../../addons/ofxiPhone/src/core -I../../../../addons/ofxiPhone/src/events -I../../../../addons/ofxiPhone/src/gl -I../../../../addons/ofxiPhone/src/sound -I../../../../addons/ofxiPhone/src/utils -I../../../../addons/ofxiPhone/src/video -I../../../../addons/ofxMultiTouch -I../../../../addons/ofxMultiTouch/src -I../../../../addons/ofxAccelerometer -I../../../../addons/ofxAccelerometer/src -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/rtaudio/include -I../../../../libs/glu/include_ios "-I/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/DerivedSources/i386" "-I/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/DerivedSources" -Wno-non-virtual-dtor -Wno-overloaded-virtual -F/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF "/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofMesh.d" -c /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofMesh.cpp -o "/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofMesh.o"36"2D98D7B1-DF57-4D5A-806B-94CBCDF8FC7E-
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofNode.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofNode.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s384320397.664631
+e384320398.405275
+r1
+xCompileC
+x../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofNode.o
+x/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofNode.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Compile /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofNode.cpp3d49aa8d43e8b641^7fc0678e43e8b641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-384320397#0#70#-0#--30"Apple LLVM compiler 3.0 Notice--0#0#0#-19%DVTDocumentLocation3@139"file://localhost/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofNode.cpp0000000000000000^3768"CompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofNode.o" ../../../openFrameworks/3d/ofNode.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wnon-virtual-dtor -Woverloaded-virtual -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 "-I/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/ofxiPhone_iphonesimulator_Debug.hmap" -I/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../addons/ofxiPhone -I../../../../addons/ofxiPhone/src -I../../../../addons/ofxiPhone/src/app -I../../../../addons/ofxiPhone/src/core -I../../../../addons/ofxiPhone/src/events -I../../../../addons/ofxiPhone/src/gl -I../../../../addons/ofxiPhone/src/sound -I../../../../addons/ofxiPhone/src/utils -I../../../../addons/ofxiPhone/src/video -I../../../../addons/ofxMultiTouch -I../../../../addons/ofxMultiTouch/src -I../../../../addons/ofxAccelerometer -I../../../../addons/ofxAccelerometer/src -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/rtaudio/include -I../../../../libs/glu/include_ios "-I/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/DerivedSources/i386" "-I/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/DerivedSources" -Wno-non-virtual-dtor -Wno-overloaded-virtual -F/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF "/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofNode.d" -c /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofNode.cpp -o "/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofNode.o"36"02BBF33D-5B57-4CE9-8CC4-37E4182C680E-
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofOpenALSoundPlayer.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/sound/ofOpenALSoundPlayer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofPath.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofPath.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofPixels.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofPixels.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofPoint.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/types/ofPoint.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofPolyline.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofPolyline.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofQuaternion.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofQuaternion.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofRectangle.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/types/ofRectangle.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofShader.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofShader.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofSoundPlayer.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/sound/ofSoundPlayer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofSoundStream.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/sound/ofSoundStream.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofSystemUtils.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofSystemUtils.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofTessellator.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofTessellator.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofTexture.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofTexture.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofThread.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofThread.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofTrueTypeFont.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofTrueTypeFont.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofURLFileLoader.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofURLFileLoader.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofUtils.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofUtils.cpp normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofVbo.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofVbo.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofVboMesh.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofVboMesh.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofVec2f.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofVec2f.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofVec4f.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofVec4f.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofVideoGrabber.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/video/ofVideoGrabber.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofVideoPlayer.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/video/ofVideoPlayer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofiPhoneVideoGrabber.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/video/ofiPhoneVideoGrabber.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofiPhoneVideoPlayer.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/video/ofiPhoneVideoPlayer.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofxAccelerometer.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxAccelerometer/src/ofxAccelerometer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s384320394.303827
+e384320396.907035
+r1
+xCompileC
+x../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofxAccelerometer.o
+x/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxAccelerometer/src/ofxAccelerometer.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection154"Compile /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxAccelerometer/src/ofxAccelerometer.cppecf94e8a43e8b641^8732e88c43e8b641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-384320394#0#70#-0#--30"Apple LLVM compiler 3.0 Notice--0#0#0#-19%DVTDocumentLocation3@162"file://localhost/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxAccelerometer/src/ofxAccelerometer.cpp0000000000000000^3844"CompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofxAccelerometer.o" ../../../../addons/ofxAccelerometer/src/ofxAccelerometer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wnon-virtual-dtor -Woverloaded-virtual -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 "-I/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/ofxiPhone_iphonesimulator_Debug.hmap" -I/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../addons/ofxiPhone -I../../../../addons/ofxiPhone/src -I../../../../addons/ofxiPhone/src/app -I../../../../addons/ofxiPhone/src/core -I../../../../addons/ofxiPhone/src/events -I../../../../addons/ofxiPhone/src/gl -I../../../../addons/ofxiPhone/src/sound -I../../../../addons/ofxiPhone/src/utils -I../../../../addons/ofxiPhone/src/video -I../../../../addons/ofxMultiTouch -I../../../../addons/ofxMultiTouch/src -I../../../../addons/ofxAccelerometer -I../../../../addons/ofxAccelerometer/src -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/rtaudio/include -I../../../../libs/glu/include_ios "-I/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/DerivedSources/i386" "-I/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/DerivedSources" -Wno-non-virtual-dtor -Wno-overloaded-virtual -F/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF "/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofxAccelerometer.d" -c /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxAccelerometer/src/ofxAccelerometer.cpp -o "/Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofxAccelerometer.o"36"F84CAB2E-9271-46E0-8BCE-E2F486B09545-
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofxMultiTouch.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxMultiTouch/src/ofxMultiTouch.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofxOpenALSoundPlayer.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/sound/ofxOpenALSoundPlayer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofxiOSEAGLView.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/core/ofxiOSEAGLView.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneAccelerometer.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/events/ofxiPhoneAccelerometer.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneAlerts.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/events/ofxiPhoneAlerts.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneAppDelegate.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/core/ofxiPhoneAppDelegate.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneCoreLocation.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneCoreLocation.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneExternalDisplay.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneExternalDisplay.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneExtras.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneExtras.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneImagePicker.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneImagePicker.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneKeyboard.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneKeyboard.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneMapKit.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneMapKit.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneMapKitDelegate.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneMapKitDelegate.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneSoundStream.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/sound/ofxiPhoneSoundStream.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/debug/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneViewController.o" /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/core/ofxiPhoneViewController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CLibtool /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/libofxiPhone_iphoneos_Debug.a normal armv7
+r0
+
+CLibtool /Users/imac/Downloads/of_v0-1.7.4_ios_release/libs/openFrameworksCompiled/project/ios/../../lib/ios/libofxiPhone_iphonesimulator_Debug.a normal i386
+r0
+

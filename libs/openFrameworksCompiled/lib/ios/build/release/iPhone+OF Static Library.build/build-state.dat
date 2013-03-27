@@ -1,0 +1,1486 @@
+TiPhone+OF Static Library
+v4
+r1
+cCheck dependencies
+cCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofxAccelerometer.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxAccelerometer/src/ofxAccelerometer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/of3dUtils.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/of3dUtils.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofCamera.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofCamera.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofEasyCam.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofEasyCam.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofMesh.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofMesh.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofNode.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofNode.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofAppRunner.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/app/ofAppRunner.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofEvents.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/events/ofEvents.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofFbo.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofFbo.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofGLRenderer.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofGLRenderer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofLight.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofLight.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofMaterial.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofMaterial.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofShader.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofShader.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofTexture.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofTexture.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofVbo.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofVbo.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofVboMesh.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofVboMesh.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofBitmapFont.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofBitmapFont.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofGraphics.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofGraphics.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofImage.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofImage.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofPath.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofPath.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofPixels.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofPixels.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofPolyline.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofPolyline.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofTessellator.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofTessellator.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofTrueTypeFont.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofTrueTypeFont.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofMath.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofMath.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofMatrix3x3.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofMatrix3x3.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofMatrix4x4.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofMatrix4x4.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk
+c000000004F2FD00A0000000000000110
+t1328533514
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004E7806CF000000000018D430
+t1316488911
+s1627184
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004E72F1F200000000002F4210
+t1316155890
+s3097104
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c000000004E72F1BC00000000000B3E00
+t1316155836
+s736768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004E72F1CC0000000000245480
+t1316155852
+s2380928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004E78059F00000000000859A0
+t1316488607
+s547232
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c000000004E780641000000000006B1C0
+t1316488769
+s438720
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c000000004E72F588000000000001EA80
+t1316156808
+s125568
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E72F2960000000000353830
+t1316156054
+s3487792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004E7807EF00000000000D89E0
+t1316489199
+s887264
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c000000004E72F2280000000000029350
+t1316155944
+s168784
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004E72F52C000000000001D2E0
+t1316156716
+s119520
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004E72F69C00000000001A9D20
+t1316157084
+s1744160
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004E7806AB00000000008F7390
+t1316488875
+s9401232
+
+N/Users/imac/Desktop/artgame/addons/ofxAccelerometer/src/ofxAccelerometer.h
+c00000000514F05BC00000000000019F8
+t1364133308
+s6648
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxAccelerometer/src/ofxAccelerometer.cpp
+c00000000514F05BC000000000000075A
+t1364133308
+s1882
+i"ofxAccelerometer.h"
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxMultiTouch/src/ofxMultiTouch.cpp
+c00000000514F05BC0000000000000AB7
+t1364133308
+s2743
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/app/ofAppiPhoneWindow.mm
+c00000000514F05BC00000000000025A9
+t1364133308
+s9641
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/core/ofxiOSEAGLView.mm
+c00000000514F05BC00000000000024DF
+t1364133308
+s9439
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/core/ofxiPhoneAppDelegate.mm
+c00000000514F05BC0000000000002AF0
+t1364133308
+s10992
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/core/ofxiPhoneViewController.mm
+c00000000514F05BC0000000000000464
+t1364133308
+s1124
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/events/ofxiPhoneAccelerometer.mm
+c00000000514F05BC0000000000000D44
+t1364133308
+s3396
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/events/ofxiPhoneAlerts.mm
+c00000000514F05BC0000000000000718
+t1364133308
+s1816
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/gl/EAGLView.m
+c00000000514F05BC0000000000002729
+t1364133308
+s10025
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/gl/ES1Renderer.m
+c00000000514F05BC0000000000001492
+t1364133308
+s5266
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/gl/ES2Renderer.m
+c00000000514F05BC0000000000001F66
+t1364133308
+s8038
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/sound/SoundEngine.cpp
+c00000000514F05BC000000000000AEF3
+t1364133308
+s44787
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/sound/ofxOpenALSoundPlayer.cpp
+c00000000514F05BC0000000000003925
+t1364133308
+s14629
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/sound/ofxiPhoneSoundStream.mm
+c00000000514F05BC000000000000345D
+t1364133308
+s13405
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneCoreLocation.mm
+c00000000514F05BC00000000000023BC
+t1364133308
+s9148
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneExternalDisplay.mm
+c00000000514F05BC00000000000018EF
+t1364133308
+s6383
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneExtras.mm
+c00000000514F05BC0000000000004306
+t1364133308
+s17158
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneImagePicker.mm
+c00000000514F05BC000000000000467D
+t1364133308
+s18045
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneKeyboard.mm
+c00000000514F05BC00000000000027A3
+t1364133308
+s10147
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneMapKit.mm
+c00000000514F05BC0000000000002229
+t1364133308
+s8745
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneMapKitDelegate.mm
+c00000000514F05BC0000000000000B87
+t1364133308
+s2951
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/video/AVFoundationVideoGrabber.mm
+c00000000514F05BC0000000000002FAA
+t1364133308
+s12202
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/video/AVFoundationVideoPlayer.m
+c00000000514F05BC0000000000004F89
+t1364133308
+s20361
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/video/ofiPhoneVideoGrabber.mm
+c00000000514F05BC000000000000055E
+t1364133308
+s1374
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/video/ofiPhoneVideoPlayer.mm
+c00000000514F05BC00000000000053BF
+t1364133308
+s21439
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/of3dUtils.cpp
+c00000000514F05BC0000000000001034
+t1364133308
+s4148
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofCamera.cpp
+c00000000514F05BC0000000000001A80
+t1364133308
+s6784
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofEasyCam.cpp
+c00000000514F05BC0000000000001CE4
+t1364133308
+s7396
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofMesh.cpp
+c00000000514F05BC0000000000006576
+t1364133308
+s25974
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofNode.cpp
+c00000000514F05BC000000000000251E
+t1364133308
+s9502
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/app/ofAppRunner.cpp
+c00000000514F05BC0000000000002740
+t1364133308
+s10048
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/events/ofEvents.cpp
+c00000000514F05BC0000000000001ABF
+t1364133308
+s6847
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofFbo.cpp
+c00000000514F05BC0000000000006D1F
+t1364133308
+s27935
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofGLRenderer.cpp
+c00000000514F05BC0000000000008566
+t1364133308
+s34150
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofLight.cpp
+c00000000514F05BC0000000000002B80
+t1364133308
+s11136
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofMaterial.cpp
+c00000000514F05BC0000000000000963
+t1364133308
+s2403
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofShader.cpp
+c00000000514F05BC0000000000004686
+t1364133308
+s18054
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofTexture.cpp
+c00000000514F05BC000000000000869A
+t1364133308
+s34458
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofVbo.cpp
+c00000000514F05BC0000000000003B04
+t1364133308
+s15108
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofVboMesh.cpp
+c00000000514F05BC000000000000112C
+t1364133308
+s4396
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofBitmapFont.cpp
+c00000000514F05BC000000000000A0A2
+t1364133308
+s41122
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofGraphics.cpp
+c00000000514F05BC00000000000081BD
+t1364133308
+s33213
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofImage.cpp
+c00000000514F05BC0000000000008A28
+t1364133308
+s35368
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofPath.cpp
+c00000000514F05BC000000000000491C
+t1364133308
+s18716
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofPixels.cpp
+c00000000514F05BC0000000000005AF4
+t1364133308
+s23284
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofPolyline.cpp
+c00000000514F05BC0000000000005DCF
+t1364133308
+s24015
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofTessellator.cpp
+c00000000514F05BC00000000000016E1
+t1364133308
+s5857
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofTrueTypeFont.cpp
+c00000000514F05BC00000000000065C2
+t1364133308
+s26050
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofMath.cpp
+c00000000514F05BC0000000000002356
+t1364133308
+s9046
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofMatrix3x3.cpp
+c00000000514F05BC0000000000001824
+t1364133308
+s6180
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofMatrix4x4.cpp
+c00000000514F05BC000000000000AC90
+t1364133308
+s44176
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofQuaternion.cpp
+c00000000514F05BC00000000000024C4
+t1364133308
+s9412
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofVec2f.cpp
+c00000000514F05BC00000000000000C7
+t1364133308
+s199
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofVec4f.cpp
+c00000000514F05BC00000000000000E7
+t1364133308
+s231
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/sound/ofBaseSoundPlayer.cpp
+c00000000514F05BC0000000000000021
+t1364133308
+s33
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/sound/ofBaseSoundStream.cpp
+c00000000514F05BC00000000000000BC
+t1364133308
+s188
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/sound/ofOpenALSoundPlayer.cpp
+c00000000514F05BC00000000000067A8
+t1364133308
+s26536
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/sound/ofSoundPlayer.cpp
+c00000000514F05BC0000000000001355
+t1364133308
+s4949
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/sound/ofSoundStream.cpp
+c00000000514F05BC0000000000000FB6
+t1364133308
+s4022
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/types/ofBaseTypes.cpp
+c00000000514F05BC00000000000014F2
+t1364133308
+s5362
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/types/ofColor.cpp
+c00000000514F05BC0000000000007BF2
+t1364133308
+s31730
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/types/ofPoint.cpp
+c00000000514F05BC0000000000000015
+t1364133308
+s21
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/types/ofRectangle.cpp
+c00000000514F05BC00000000000056A1
+t1364133308
+s22177
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofFileUtils.cpp
+c00000000514F05BC000000000000A077
+t1364133308
+s41079
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofLog.cpp
+c00000000514F05BC0000000000001C07
+t1364133308
+s7175
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofSystemUtils.cpp
+c00000000514F05BC0000000000007050
+t1364133308
+s28752
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofThread.cpp
+c00000000514F05BC00000000000011BD
+t1364133308
+s4541
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofURLFileLoader.cpp
+c00000000514F05BC000000000000178A
+t1364133308
+s6026
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofUtils.cpp
+c00000000514F05BC0000000000004B4F
+t1364133308
+s19279
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/video/ofVideoGrabber.cpp
+c00000000514F05BC0000000000001DE0
+t1364133308
+s7648
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/video/ofVideoPlayer.cpp
+c00000000514F05BC0000000000002A2B
+t1364133308
+s10795
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/AVFoundationVideoGrabber.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/AVFoundationVideoPlayer.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/EAGLView.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ES1Renderer.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ES2Renderer.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/SoundEngine.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/of3dUtils.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofAppRunner.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofAppiPhoneWindow.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofBaseSoundPlayer.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofBaseSoundStream.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofBaseTypes.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofBitmapFont.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofCamera.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofColor.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofEasyCam.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofEvents.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofFbo.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofFileUtils.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofGLRenderer.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofGraphics.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofImage.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofLight.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofLog.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofMaterial.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofMath.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofMatrix3x3.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofMatrix4x4.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofMesh.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofNode.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofOpenALSoundPlayer.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofPath.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofPixels.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofPoint.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofPolyline.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofQuaternion.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofRectangle.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofShader.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofSoundPlayer.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofSoundStream.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofSystemUtils.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofTessellator.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofTexture.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofThread.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofTrueTypeFont.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofURLFileLoader.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofUtils.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofVbo.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofVboMesh.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofVec2f.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofVec4f.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofVideoGrabber.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofVideoPlayer.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofiPhoneVideoGrabber.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofiPhoneVideoPlayer.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofxAccelerometer.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofxMultiTouch.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofxOpenALSoundPlayer.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofxiOSEAGLView.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneAccelerometer.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneAlerts.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneAppDelegate.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneCoreLocation.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneExternalDisplay.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneExtras.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneImagePicker.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneKeyboard.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneMapKit.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneMapKitDelegate.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneSoundStream.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneViewController.o
+t2
+s0
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhone_iphonesimulator_Release.LinkFileList
+c00000000514FAE790000000000002D1D
+t1364176505
+s11549
+
+N/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/libofxiPhone_iphonesimulator_Release.a
+t2
+s0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxAccelerometer/src/ofxAccelerometer.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxMultiTouch/src/ofxMultiTouch.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/app/ofAppiPhoneWindow.mm
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/core/ofxiOSEAGLView.mm
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/core/ofxiPhoneAppDelegate.mm
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/core/ofxiPhoneViewController.mm
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/events/ofxiPhoneAccelerometer.mm
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/events/ofxiPhoneAlerts.mm
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/gl/EAGLView.m
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/gl/ES1Renderer.m
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/gl/ES2Renderer.m
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/sound/SoundEngine.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/sound/ofxOpenALSoundPlayer.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/sound/ofxiPhoneSoundStream.mm
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneCoreLocation.mm
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneExternalDisplay.mm
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneExtras.mm
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneImagePicker.mm
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneKeyboard.mm
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneMapKit.mm
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneMapKitDelegate.mm
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/video/AVFoundationVideoGrabber.mm
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/video/AVFoundationVideoPlayer.m
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/video/ofiPhoneVideoGrabber.mm
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/video/ofiPhoneVideoPlayer.mm
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/of3dUtils.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofCamera.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofEasyCam.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofMesh.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofNode.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/app/ofAppRunner.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/events/ofEvents.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofFbo.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofGLRenderer.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofLight.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofMaterial.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofShader.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofTexture.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofVbo.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofVboMesh.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofBitmapFont.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofGraphics.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofImage.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofPath.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofPixels.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofPolyline.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofTessellator.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofTrueTypeFont.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofMath.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofMatrix3x3.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofMatrix4x4.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofQuaternion.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofVec2f.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofVec4f.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/sound/ofBaseSoundPlayer.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/sound/ofBaseSoundStream.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/sound/ofOpenALSoundPlayer.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/sound/ofSoundPlayer.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/sound/ofSoundStream.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/types/ofBaseTypes.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/types/ofColor.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/types/ofPoint.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/types/ofRectangle.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofFileUtils.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofLog.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofSystemUtils.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofThread.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofURLFileLoader.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofUtils.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/video/ofVideoGrabber.cpp
+r0
+
+CBuild AST from /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/video/ofVideoPlayer.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies6093cdf8e5ffb641^149327f9e5ffb641^---0#1#0#--18"Check dependencies36"5E983E50-493B-4158-BD41-94FFA1E743F8-
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/AVFoundationVideoGrabber.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/video/AVFoundationVideoGrabber.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/AVFoundationVideoPlayer.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/video/AVFoundationVideoPlayer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/EAGLView.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/gl/EAGLView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ES1Renderer.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/gl/ES1Renderer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ES2Renderer.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/gl/ES2Renderer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/SoundEngine.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/sound/SoundEngine.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/of3dUtils.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/of3dUtils.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s385869305.193473
+e385869308.585599
+r1
+xCompileC
+x../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/of3dUtils.o
+x/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/of3dUtils.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/of3dUtils.cpp82aa31f9e5ffb641^08e995fce5ffb641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-385869305#0#70#-0#--30"Apple LLVM compiler 3.0 Notice--0#0#0#-19%DVTDocumentLocation3@124"file://localhost/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/of3dUtils.cpp0000000000000000^3650"CompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/of3dUtils.o" ../../../openFrameworks/3d/of3dUtils.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O3 -Wno-return-type -Wnon-virtual-dtor -Woverloaded-virtual -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -funroll-loops -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/ofxiPhone_iphonesimulator_Release.hmap" -I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../addons/ofxiPhone -I../../../../addons/ofxiPhone/src -I../../../../addons/ofxiPhone/src/app -I../../../../addons/ofxiPhone/src/core -I../../../../addons/ofxiPhone/src/events -I../../../../addons/ofxiPhone/src/gl -I../../../../addons/ofxiPhone/src/sound -I../../../../addons/ofxiPhone/src/utils -I../../../../addons/ofxiPhone/src/video -I../../../../addons/ofxMultiTouch -I../../../../addons/ofxMultiTouch/src -I../../../../addons/ofxAccelerometer -I../../../../addons/ofxAccelerometer/src -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/rtaudio/include -I../../../../libs/glu/include_ios "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources/i386" "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources" -Wno-non-virtual-dtor -Wno-overloaded-virtual -F/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/of3dUtils.d" -c /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/of3dUtils.cpp -o "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/of3dUtils.o"36"963E294E-2DE7-4D8F-A961-09FB682237CC-
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofAppRunner.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/app/ofAppRunner.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s385869310.328852
+e385869311.831807
+r1
+xCompileC
+x../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofAppRunner.o
+x/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/app/ofAppRunner.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/app/ofAppRunner.cppad5054fee5ffb641^20f0d4ffe5ffb641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-385869310#0#70#-0#--30"Apple LLVM compiler 3.0 Notice--0#0#0#-19%DVTDocumentLocation3@127"file://localhost/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/app/ofAppRunner.cpp0000000000000000^3662"CompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofAppRunner.o" ../../../openFrameworks/app/ofAppRunner.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O3 -Wno-return-type -Wnon-virtual-dtor -Woverloaded-virtual -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -funroll-loops -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/ofxiPhone_iphonesimulator_Release.hmap" -I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../addons/ofxiPhone -I../../../../addons/ofxiPhone/src -I../../../../addons/ofxiPhone/src/app -I../../../../addons/ofxiPhone/src/core -I../../../../addons/ofxiPhone/src/events -I../../../../addons/ofxiPhone/src/gl -I../../../../addons/ofxiPhone/src/sound -I../../../../addons/ofxiPhone/src/utils -I../../../../addons/ofxiPhone/src/video -I../../../../addons/ofxMultiTouch -I../../../../addons/ofxMultiTouch/src -I../../../../addons/ofxAccelerometer -I../../../../addons/ofxAccelerometer/src -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/rtaudio/include -I../../../../libs/glu/include_ios "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources/i386" "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources" -Wno-non-virtual-dtor -Wno-overloaded-virtual -F/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofAppRunner.d" -c /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/app/ofAppRunner.cpp -o "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofAppRunner.o"36"0321557B-7093-491D-9016-95C482D2E51B-
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofAppiPhoneWindow.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/app/ofAppiPhoneWindow.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofBaseSoundPlayer.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/sound/ofBaseSoundPlayer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofBaseSoundStream.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/sound/ofBaseSoundStream.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofBaseTypes.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/types/ofBaseTypes.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofBitmapFont.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofBitmapFont.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s385869316.492294
+e385869317.135251
+r1
+xCompileC
+x../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofBitmapFont.o
+x/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofBitmapFont.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Compile /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofBitmapFont.cpp772c7e04e6ffb641^64b02205e6ffb641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-385869316#0#70#-0#--30"Apple LLVM compiler 3.0 Notice--0#0#0#-19%DVTDocumentLocation3@133"file://localhost/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofBitmapFont.cpp0000000000000000^3677"CompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofBitmapFont.o" ../../../openFrameworks/graphics/ofBitmapFont.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O3 -Wno-return-type -Wnon-virtual-dtor -Woverloaded-virtual -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -funroll-loops -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/ofxiPhone_iphonesimulator_Release.hmap" -I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../addons/ofxiPhone -I../../../../addons/ofxiPhone/src -I../../../../addons/ofxiPhone/src/app -I../../../../addons/ofxiPhone/src/core -I../../../../addons/ofxiPhone/src/events -I../../../../addons/ofxiPhone/src/gl -I../../../../addons/ofxiPhone/src/sound -I../../../../addons/ofxiPhone/src/utils -I../../../../addons/ofxiPhone/src/video -I../../../../addons/ofxMultiTouch -I../../../../addons/ofxMultiTouch/src -I../../../../addons/ofxAccelerometer -I../../../../addons/ofxAccelerometer/src -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/rtaudio/include -I../../../../libs/glu/include_ios "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources/i386" "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources" -Wno-non-virtual-dtor -Wno-overloaded-virtual -F/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofBitmapFont.d" -c /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofBitmapFont.cpp -o "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofBitmapFont.o"36"3B98B764-9E3A-42F1-9B95-FA31F21CA050-
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofCamera.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofCamera.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s385869308.586927
+e385869309.408543
+r1
+xCompileC
+x../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofCamera.o
+x/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofCamera.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compile /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofCamera.cpp5c7496fce5ffb641^4a9568fde5ffb641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-385869308#0#70#-0#--30"Apple LLVM compiler 3.0 Notice--0#0#0#-19%DVTDocumentLocation3@123"file://localhost/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofCamera.cpp0000000000000000^3645"CompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofCamera.o" ../../../openFrameworks/3d/ofCamera.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O3 -Wno-return-type -Wnon-virtual-dtor -Woverloaded-virtual -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -funroll-loops -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/ofxiPhone_iphonesimulator_Release.hmap" -I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../addons/ofxiPhone -I../../../../addons/ofxiPhone/src -I../../../../addons/ofxiPhone/src/app -I../../../../addons/ofxiPhone/src/core -I../../../../addons/ofxiPhone/src/events -I../../../../addons/ofxiPhone/src/gl -I../../../../addons/ofxiPhone/src/sound -I../../../../addons/ofxiPhone/src/utils -I../../../../addons/ofxiPhone/src/video -I../../../../addons/ofxMultiTouch -I../../../../addons/ofxMultiTouch/src -I../../../../addons/ofxAccelerometer -I../../../../addons/ofxAccelerometer/src -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/rtaudio/include -I../../../../libs/glu/include_ios "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources/i386" "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources" -Wno-non-virtual-dtor -Wno-overloaded-virtual -F/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofCamera.d" -c /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofCamera.cpp -o "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofCamera.o"36"B1631830-0869-486B-A32E-037E057FEAE7-
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofColor.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/types/ofColor.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofEasyCam.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofEasyCam.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s385869308.649578
+e385869309.589980
+r1
+xCompileC
+x../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofEasyCam.o
+x/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofEasyCam.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofEasyCam.cpp766ea6fce5ffb641^1c0a97fde5ffb641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-385869308#0#70#-0#--30"Apple LLVM compiler 3.0 Notice--0#0#0#-19%DVTDocumentLocation3@124"file://localhost/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofEasyCam.cpp0000000000000000^3650"CompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofEasyCam.o" ../../../openFrameworks/3d/ofEasyCam.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O3 -Wno-return-type -Wnon-virtual-dtor -Woverloaded-virtual -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -funroll-loops -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/ofxiPhone_iphonesimulator_Release.hmap" -I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../addons/ofxiPhone -I../../../../addons/ofxiPhone/src -I../../../../addons/ofxiPhone/src/app -I../../../../addons/ofxiPhone/src/core -I../../../../addons/ofxiPhone/src/events -I../../../../addons/ofxiPhone/src/gl -I../../../../addons/ofxiPhone/src/sound -I../../../../addons/ofxiPhone/src/utils -I../../../../addons/ofxiPhone/src/video -I../../../../addons/ofxMultiTouch -I../../../../addons/ofxMultiTouch/src -I../../../../addons/ofxAccelerometer -I../../../../addons/ofxAccelerometer/src -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/rtaudio/include -I../../../../libs/glu/include_ios "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources/i386" "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources" -Wno-non-virtual-dtor -Wno-overloaded-virtual -F/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofEasyCam.d" -c /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofEasyCam.cpp -o "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofEasyCam.o"36"6E814A37-D620-4859-B615-72671C648543-
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofEvents.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/events/ofEvents.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s385869311.517363
+e385869314.615778
+r1
+xCompileC
+x../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofEvents.o
+x/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/events/ofEvents.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/events/ofEvents.cpp189584ffe5ffb641^d159da02e6ffb641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-385869311#0#70#-0#--30"Apple LLVM compiler 3.0 Notice--0#0#0#-19%DVTDocumentLocation3@127"file://localhost/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/events/ofEvents.cpp0000000000000000^3653"CompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofEvents.o" ../../../openFrameworks/events/ofEvents.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O3 -Wno-return-type -Wnon-virtual-dtor -Woverloaded-virtual -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -funroll-loops -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/ofxiPhone_iphonesimulator_Release.hmap" -I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../addons/ofxiPhone -I../../../../addons/ofxiPhone/src -I../../../../addons/ofxiPhone/src/app -I../../../../addons/ofxiPhone/src/core -I../../../../addons/ofxiPhone/src/events -I../../../../addons/ofxiPhone/src/gl -I../../../../addons/ofxiPhone/src/sound -I../../../../addons/ofxiPhone/src/utils -I../../../../addons/ofxiPhone/src/video -I../../../../addons/ofxMultiTouch -I../../../../addons/ofxMultiTouch/src -I../../../../addons/ofxAccelerometer -I../../../../addons/ofxAccelerometer/src -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/rtaudio/include -I../../../../libs/glu/include_ios "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources/i386" "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources" -Wno-non-virtual-dtor -Wno-overloaded-virtual -F/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofEvents.d" -c /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/events/ofEvents.cpp -o "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofEvents.o"36"AF0E6B7B-A1B7-4668-8C72-DB5BEBC44DE6-
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofFbo.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofFbo.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s385869311.833079
+e385869313.125263
+r1
+xCompileC
+x../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofFbo.o
+x/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofFbo.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofFbo.cpp2c65d5ffe5ffb641^b6102001e6ffb641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-385869311#0#70#-0#--30"Apple LLVM compiler 3.0 Notice--0#0#0#-19%DVTDocumentLocation3@120"file://localhost/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofFbo.cpp0000000000000000^3630"CompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofFbo.o" ../../../openFrameworks/gl/ofFbo.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O3 -Wno-return-type -Wnon-virtual-dtor -Woverloaded-virtual -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -funroll-loops -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/ofxiPhone_iphonesimulator_Release.hmap" -I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../addons/ofxiPhone -I../../../../addons/ofxiPhone/src -I../../../../addons/ofxiPhone/src/app -I../../../../addons/ofxiPhone/src/core -I../../../../addons/ofxiPhone/src/events -I../../../../addons/ofxiPhone/src/gl -I../../../../addons/ofxiPhone/src/sound -I../../../../addons/ofxiPhone/src/utils -I../../../../addons/ofxiPhone/src/video -I../../../../addons/ofxMultiTouch -I../../../../addons/ofxMultiTouch/src -I../../../../addons/ofxAccelerometer -I../../../../addons/ofxAccelerometer/src -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/rtaudio/include -I../../../../libs/glu/include_ios "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources/i386" "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources" -Wno-non-virtual-dtor -Wno-overloaded-virtual -F/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofFbo.d" -c /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofFbo.cpp -o "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofFbo.o"36"9977A3BD-7C98-4942-94D4-3A67FC8B56B9-
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofFileUtils.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofFileUtils.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofGLRenderer.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofGLRenderer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s385869313.126799
+e385869314.580488
+r1
+xCompileC
+x../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofGLRenderer.o
+x/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofGLRenderer.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofGLRenderer.cppee962001e6ffb641^5e4dda02e6ffb641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-385869313#0#70#-0#--30"Apple LLVM compiler 3.0 Notice--0#0#0#-19%DVTDocumentLocation3@127"file://localhost/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofGLRenderer.cpp0000000000000000^3665"CompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofGLRenderer.o" ../../../openFrameworks/gl/ofGLRenderer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O3 -Wno-return-type -Wnon-virtual-dtor -Woverloaded-virtual -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -funroll-loops -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/ofxiPhone_iphonesimulator_Release.hmap" -I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../addons/ofxiPhone -I../../../../addons/ofxiPhone/src -I../../../../addons/ofxiPhone/src/app -I../../../../addons/ofxiPhone/src/core -I../../../../addons/ofxiPhone/src/events -I../../../../addons/ofxiPhone/src/gl -I../../../../addons/ofxiPhone/src/sound -I../../../../addons/ofxiPhone/src/utils -I../../../../addons/ofxiPhone/src/video -I../../../../addons/ofxMultiTouch -I../../../../addons/ofxMultiTouch/src -I../../../../addons/ofxAccelerometer -I../../../../addons/ofxAccelerometer/src -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/rtaudio/include -I../../../../libs/glu/include_ios "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources/i386" "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources" -Wno-non-virtual-dtor -Wno-overloaded-virtual -F/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofGLRenderer.d" -c /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofGLRenderer.cpp -o "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofGLRenderer.o"36"D6A90A0B-CB59-440C-8AEA-D3D79B0158FC-
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofGraphics.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofGraphics.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s385869317.105628
+e385869318.310728
+r1
+xCompileC
+x../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofGraphics.o
+x/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofGraphics.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compile /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofGraphics.cpp242b1b05e6ffb641^e38a4f06e6ffb641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-385869317#0#70#-0#--30"Apple LLVM compiler 3.0 Notice--0#0#0#-19%DVTDocumentLocation3@131"file://localhost/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofGraphics.cpp0000000000000000^3667"CompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofGraphics.o" ../../../openFrameworks/graphics/ofGraphics.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O3 -Wno-return-type -Wnon-virtual-dtor -Woverloaded-virtual -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -funroll-loops -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/ofxiPhone_iphonesimulator_Release.hmap" -I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../addons/ofxiPhone -I../../../../addons/ofxiPhone/src -I../../../../addons/ofxiPhone/src/app -I../../../../addons/ofxiPhone/src/core -I../../../../addons/ofxiPhone/src/events -I../../../../addons/ofxiPhone/src/gl -I../../../../addons/ofxiPhone/src/sound -I../../../../addons/ofxiPhone/src/utils -I../../../../addons/ofxiPhone/src/video -I../../../../addons/ofxMultiTouch -I../../../../addons/ofxMultiTouch/src -I../../../../addons/ofxAccelerometer -I../../../../addons/ofxAccelerometer/src -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/rtaudio/include -I../../../../libs/glu/include_ios "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources/i386" "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources" -Wno-non-virtual-dtor -Wno-overloaded-virtual -F/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofGraphics.d" -c /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofGraphics.cpp -o "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofGraphics.o"36"3BFD9836-306E-422B-B311-D32F2768508D-
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofImage.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofImage.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s385869317.136744
+e385869319.109078
+r1
+xCompileC
+x../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofImage.o
+x/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofImage.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Compile /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofImage.cppc0222305e6ffb641^e1eb1b07e6ffb641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-385869317#0#70#-0#--30"Apple LLVM compiler 3.0 Notice--0#0#0#-19%DVTDocumentLocation3@128"file://localhost/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofImage.cpp0000000000000000^3652"CompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofImage.o" ../../../openFrameworks/graphics/ofImage.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O3 -Wno-return-type -Wnon-virtual-dtor -Woverloaded-virtual -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -funroll-loops -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/ofxiPhone_iphonesimulator_Release.hmap" -I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../addons/ofxiPhone -I../../../../addons/ofxiPhone/src -I../../../../addons/ofxiPhone/src/app -I../../../../addons/ofxiPhone/src/core -I../../../../addons/ofxiPhone/src/events -I../../../../addons/ofxiPhone/src/gl -I../../../../addons/ofxiPhone/src/sound -I../../../../addons/ofxiPhone/src/utils -I../../../../addons/ofxiPhone/src/video -I../../../../addons/ofxMultiTouch -I../../../../addons/ofxMultiTouch/src -I../../../../addons/ofxAccelerometer -I../../../../addons/ofxAccelerometer/src -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/rtaudio/include -I../../../../libs/glu/include_ios "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources/i386" "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources" -Wno-non-virtual-dtor -Wno-overloaded-virtual -F/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofImage.d" -c /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofImage.cpp -o "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofImage.o"36"E9DCFFC1-8DE8-4600-BA40-6073660E21B4-
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofLight.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofLight.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s385869314.588073
+e385869315.600586
+r1
+xCompileC
+x../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofLight.o
+x/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofLight.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compile /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofLight.cppc8cf9602e6ffb641^16bf9903e6ffb641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-385869314#0#70#-0#--30"Apple LLVM compiler 3.0 Notice--0#0#0#-19%DVTDocumentLocation3@122"file://localhost/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofLight.cpp0000000000000000^3640"CompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofLight.o" ../../../openFrameworks/gl/ofLight.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O3 -Wno-return-type -Wnon-virtual-dtor -Woverloaded-virtual -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -funroll-loops -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/ofxiPhone_iphonesimulator_Release.hmap" -I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../addons/ofxiPhone -I../../../../addons/ofxiPhone/src -I../../../../addons/ofxiPhone/src/app -I../../../../addons/ofxiPhone/src/core -I../../../../addons/ofxiPhone/src/events -I../../../../addons/ofxiPhone/src/gl -I../../../../addons/ofxiPhone/src/sound -I../../../../addons/ofxiPhone/src/utils -I../../../../addons/ofxiPhone/src/video -I../../../../addons/ofxMultiTouch -I../../../../addons/ofxMultiTouch/src -I../../../../addons/ofxAccelerometer -I../../../../addons/ofxAccelerometer/src -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/rtaudio/include -I../../../../libs/glu/include_ios "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources/i386" "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources" -Wno-non-virtual-dtor -Wno-overloaded-virtual -F/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofLight.d" -c /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofLight.cpp -o "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofLight.o"36"6B322CF2-97DD-40C1-A89E-002163032A29-
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofLog.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofLog.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofMaterial.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofMaterial.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s385869314.617275
+e385869315.160900
+r1
+xCompileC
+x../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofMaterial.o
+x/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofMaterial.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Compile /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofMaterial.cpp67289e02e6ffb641^42412903e6ffb641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-385869314#0#70#-0#--30"Apple LLVM compiler 3.0 Notice--0#0#0#-19%DVTDocumentLocation3@125"file://localhost/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofMaterial.cpp0000000000000000^3655"CompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofMaterial.o" ../../../openFrameworks/gl/ofMaterial.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O3 -Wno-return-type -Wnon-virtual-dtor -Woverloaded-virtual -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -funroll-loops -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/ofxiPhone_iphonesimulator_Release.hmap" -I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../addons/ofxiPhone -I../../../../addons/ofxiPhone/src -I../../../../addons/ofxiPhone/src/app -I../../../../addons/ofxiPhone/src/core -I../../../../addons/ofxiPhone/src/events -I../../../../addons/ofxiPhone/src/gl -I../../../../addons/ofxiPhone/src/sound -I../../../../addons/ofxiPhone/src/utils -I../../../../addons/ofxiPhone/src/video -I../../../../addons/ofxMultiTouch -I../../../../addons/ofxMultiTouch/src -I../../../../addons/ofxAccelerometer -I../../../../addons/ofxAccelerometer/src -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/rtaudio/include -I../../../../libs/glu/include_ios "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources/i386" "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources" -Wno-non-virtual-dtor -Wno-overloaded-virtual -F/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofMaterial.d" -c /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofMaterial.cpp -o "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofMaterial.o"36"10C92177-7CEF-4A01-8EC9-A3977E78B235-
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofMath.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofMath.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s385869324.334627
+e385869325.253752
+r1
+xCompileC
+x../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofMath.o
+x/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofMath.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compile /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofMath.cpp35d3550ce6ffb641^3606410de6ffb641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-385869324#0#70#-0#--30"Apple LLVM compiler 3.0 Notice--0#0#0#-19%DVTDocumentLocation3@123"file://localhost/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofMath.cpp0000000000000000^3639"CompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofMath.o" ../../../openFrameworks/math/ofMath.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O3 -Wno-return-type -Wnon-virtual-dtor -Woverloaded-virtual -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -funroll-loops -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/ofxiPhone_iphonesimulator_Release.hmap" -I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../addons/ofxiPhone -I../../../../addons/ofxiPhone/src -I../../../../addons/ofxiPhone/src/app -I../../../../addons/ofxiPhone/src/core -I../../../../addons/ofxiPhone/src/events -I../../../../addons/ofxiPhone/src/gl -I../../../../addons/ofxiPhone/src/sound -I../../../../addons/ofxiPhone/src/utils -I../../../../addons/ofxiPhone/src/video -I../../../../addons/ofxMultiTouch -I../../../../addons/ofxMultiTouch/src -I../../../../addons/ofxAccelerometer -I../../../../addons/ofxAccelerometer/src -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/rtaudio/include -I../../../../libs/glu/include_ios "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources/i386" "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources" -Wno-non-virtual-dtor -Wno-overloaded-virtual -F/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofMath.d" -c /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofMath.cpp -o "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofMath.o"36"C7DD43E1-3871-4ACE-B480-5BBBF9ED8E1F-
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofMatrix3x3.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofMatrix3x3.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s385869325.255020
+e385869325.850628
+r1
+xCompileC
+x../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofMatrix3x3.o
+x/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofMatrix3x3.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Compile /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofMatrix3x3.cppd369410de6ffb641^3aced90de6ffb641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-385869325#0#70#-0#--30"Apple LLVM compiler 3.0 Notice--0#0#0#-19%DVTDocumentLocation3@128"file://localhost/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofMatrix3x3.cpp0000000000000000^3664"CompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofMatrix3x3.o" ../../../openFrameworks/math/ofMatrix3x3.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O3 -Wno-return-type -Wnon-virtual-dtor -Woverloaded-virtual -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -funroll-loops -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/ofxiPhone_iphonesimulator_Release.hmap" -I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../addons/ofxiPhone -I../../../../addons/ofxiPhone/src -I../../../../addons/ofxiPhone/src/app -I../../../../addons/ofxiPhone/src/core -I../../../../addons/ofxiPhone/src/events -I../../../../addons/ofxiPhone/src/gl -I../../../../addons/ofxiPhone/src/sound -I../../../../addons/ofxiPhone/src/utils -I../../../../addons/ofxiPhone/src/video -I../../../../addons/ofxMultiTouch -I../../../../addons/ofxMultiTouch/src -I../../../../addons/ofxAccelerometer -I../../../../addons/ofxAccelerometer/src -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/rtaudio/include -I../../../../libs/glu/include_ios "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources/i386" "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources" -Wno-non-virtual-dtor -Wno-overloaded-virtual -F/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofMatrix3x3.d" -c /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofMatrix3x3.cpp -o "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofMatrix3x3.o"36"5F208304-6C27-4A7A-A3F2-46162CB46BAE-
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofMatrix4x4.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofMatrix4x4.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s385869325.851915
+e385869326.914586
+r1
+xCompileC
+x../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofMatrix4x4.o
+x/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofMatrix4x4.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Compile /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofMatrix4x4.cpp1138da0de6ffb641^1021ea0ee6ffb641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-385869325#0#70#-0#--30"Apple LLVM compiler 3.0 Notice--0#0#0#-19%DVTDocumentLocation3@128"file://localhost/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofMatrix4x4.cpp0000000000000000^3664"CompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofMatrix4x4.o" ../../../openFrameworks/math/ofMatrix4x4.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O3 -Wno-return-type -Wnon-virtual-dtor -Woverloaded-virtual -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -funroll-loops -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/ofxiPhone_iphonesimulator_Release.hmap" -I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../addons/ofxiPhone -I../../../../addons/ofxiPhone/src -I../../../../addons/ofxiPhone/src/app -I../../../../addons/ofxiPhone/src/core -I../../../../addons/ofxiPhone/src/events -I../../../../addons/ofxiPhone/src/gl -I../../../../addons/ofxiPhone/src/sound -I../../../../addons/ofxiPhone/src/utils -I../../../../addons/ofxiPhone/src/video -I../../../../addons/ofxMultiTouch -I../../../../addons/ofxMultiTouch/src -I../../../../addons/ofxAccelerometer -I../../../../addons/ofxAccelerometer/src -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/rtaudio/include -I../../../../libs/glu/include_ios "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources/i386" "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources" -Wno-non-virtual-dtor -Wno-overloaded-virtual -F/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofMatrix4x4.d" -c /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofMatrix4x4.cpp -o "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofMatrix4x4.o"36"48A0A171-EBE3-4A17-A005-A38CE27D5BA8-
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofMesh.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofMesh.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s385869309.409854
+e385869311.516086
+r1
+xCompileC
+x../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofMesh.o
+x/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofMesh.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Compile /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofMesh.cpp880e69fde5ffb641^832f84ffe5ffb641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-385869309#0#70#-0#--30"Apple LLVM compiler 3.0 Notice--0#0#0#-19%DVTDocumentLocation3@121"file://localhost/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofMesh.cpp0000000000000000^3635"CompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofMesh.o" ../../../openFrameworks/3d/ofMesh.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O3 -Wno-return-type -Wnon-virtual-dtor -Woverloaded-virtual -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -funroll-loops -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/ofxiPhone_iphonesimulator_Release.hmap" -I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../addons/ofxiPhone -I../../../../addons/ofxiPhone/src -I../../../../addons/ofxiPhone/src/app -I../../../../addons/ofxiPhone/src/core -I../../../../addons/ofxiPhone/src/events -I../../../../addons/ofxiPhone/src/gl -I../../../../addons/ofxiPhone/src/sound -I../../../../addons/ofxiPhone/src/utils -I../../../../addons/ofxiPhone/src/video -I../../../../addons/ofxMultiTouch -I../../../../addons/ofxMultiTouch/src -I../../../../addons/ofxAccelerometer -I../../../../addons/ofxAccelerometer/src -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/rtaudio/include -I../../../../libs/glu/include_ios "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources/i386" "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources" -Wno-non-virtual-dtor -Wno-overloaded-virtual -F/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofMesh.d" -c /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofMesh.cpp -o "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofMesh.o"36"A417091B-7EFE-4549-8752-B9565C14F449-
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofNode.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofNode.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s385869309.591588
+e385869310.327554
+r1
+xCompileC
+x../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofNode.o
+x/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofNode.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Compile /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofNode.cppf7b097fde5ffb641^7ae053fee5ffb641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-385869309#0#70#-0#--30"Apple LLVM compiler 3.0 Notice--0#0#0#-19%DVTDocumentLocation3@121"file://localhost/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofNode.cpp0000000000000000^3635"CompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofNode.o" ../../../openFrameworks/3d/ofNode.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O3 -Wno-return-type -Wnon-virtual-dtor -Woverloaded-virtual -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -funroll-loops -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/ofxiPhone_iphonesimulator_Release.hmap" -I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../addons/ofxiPhone -I../../../../addons/ofxiPhone/src -I../../../../addons/ofxiPhone/src/app -I../../../../addons/ofxiPhone/src/core -I../../../../addons/ofxiPhone/src/events -I../../../../addons/ofxiPhone/src/gl -I../../../../addons/ofxiPhone/src/sound -I../../../../addons/ofxiPhone/src/utils -I../../../../addons/ofxiPhone/src/video -I../../../../addons/ofxMultiTouch -I../../../../addons/ofxMultiTouch/src -I../../../../addons/ofxAccelerometer -I../../../../addons/ofxAccelerometer/src -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/rtaudio/include -I../../../../libs/glu/include_ios "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources/i386" "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources" -Wno-non-virtual-dtor -Wno-overloaded-virtual -F/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofNode.d" -c /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/3d/ofNode.cpp -o "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofNode.o"36"98710820-E612-4A0B-8B4C-C19B826EA932-
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofOpenALSoundPlayer.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/sound/ofOpenALSoundPlayer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofPath.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofPath.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s385869318.312034
+e385869320.337504
+r1
+xCompileC
+x../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofPath.o
+x/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofPath.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofPath.cppbc035006e6ffb641^0f275808e6ffb641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-385869318#0#70#-0#--30"Apple LLVM compiler 3.0 Notice--0#0#0#-19%DVTDocumentLocation3@127"file://localhost/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofPath.cpp0000000000000000^3647"CompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofPath.o" ../../../openFrameworks/graphics/ofPath.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O3 -Wno-return-type -Wnon-virtual-dtor -Woverloaded-virtual -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -funroll-loops -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/ofxiPhone_iphonesimulator_Release.hmap" -I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../addons/ofxiPhone -I../../../../addons/ofxiPhone/src -I../../../../addons/ofxiPhone/src/app -I../../../../addons/ofxiPhone/src/core -I../../../../addons/ofxiPhone/src/events -I../../../../addons/ofxiPhone/src/gl -I../../../../addons/ofxiPhone/src/sound -I../../../../addons/ofxiPhone/src/utils -I../../../../addons/ofxiPhone/src/video -I../../../../addons/ofxMultiTouch -I../../../../addons/ofxMultiTouch/src -I../../../../addons/ofxAccelerometer -I../../../../addons/ofxAccelerometer/src -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/rtaudio/include -I../../../../libs/glu/include_ios "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources/i386" "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources" -Wno-non-virtual-dtor -Wno-overloaded-virtual -F/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofPath.d" -c /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofPath.cpp -o "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofPath.o"36"355EBFBD-07A4-4085-B668-464D86A6F414-
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofPixels.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofPixels.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s385869319.110381
+e385869324.333303
+r1
+xCompileC
+x../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofPixels.o
+x/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofPixels.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Compile /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofPixels.cpped641c07e6ffb641^386a550ce6ffb641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-385869319#0#70#-0#--30"Apple LLVM compiler 3.0 Notice--0#0#0#-19%DVTDocumentLocation3@129"file://localhost/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofPixels.cpp0000000000000000^3657"CompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofPixels.o" ../../../openFrameworks/graphics/ofPixels.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O3 -Wno-return-type -Wnon-virtual-dtor -Woverloaded-virtual -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -funroll-loops -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/ofxiPhone_iphonesimulator_Release.hmap" -I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../addons/ofxiPhone -I../../../../addons/ofxiPhone/src -I../../../../addons/ofxiPhone/src/app -I../../../../addons/ofxiPhone/src/core -I../../../../addons/ofxiPhone/src/events -I../../../../addons/ofxiPhone/src/gl -I../../../../addons/ofxiPhone/src/sound -I../../../../addons/ofxiPhone/src/utils -I../../../../addons/ofxiPhone/src/video -I../../../../addons/ofxMultiTouch -I../../../../addons/ofxMultiTouch/src -I../../../../addons/ofxAccelerometer -I../../../../addons/ofxAccelerometer/src -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/rtaudio/include -I../../../../libs/glu/include_ios "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources/i386" "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources" -Wno-non-virtual-dtor -Wno-overloaded-virtual -F/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofPixels.d" -c /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofPixels.cpp -o "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofPixels.o"36"41D7F9C4-8232-4517-A3BC-DF31F80A7774-
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofPoint.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/types/ofPoint.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofPolyline.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofPolyline.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s385869320.345590
+e385869322.199951
+r1
+xCompileC
+x../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofPolyline.o
+x/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofPolyline.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compile /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofPolyline.cppa69b5808e6ffb641^232f330ae6ffb641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-385869320#0#70#-0#--30"Apple LLVM compiler 3.0 Notice--0#0#0#-19%DVTDocumentLocation3@131"file://localhost/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofPolyline.cpp0000000000000000^3667"CompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofPolyline.o" ../../../openFrameworks/graphics/ofPolyline.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O3 -Wno-return-type -Wnon-virtual-dtor -Woverloaded-virtual -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -funroll-loops -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/ofxiPhone_iphonesimulator_Release.hmap" -I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../addons/ofxiPhone -I../../../../addons/ofxiPhone/src -I../../../../addons/ofxiPhone/src/app -I../../../../addons/ofxiPhone/src/core -I../../../../addons/ofxiPhone/src/events -I../../../../addons/ofxiPhone/src/gl -I../../../../addons/ofxiPhone/src/sound -I../../../../addons/ofxiPhone/src/utils -I../../../../addons/ofxiPhone/src/video -I../../../../addons/ofxMultiTouch -I../../../../addons/ofxMultiTouch/src -I../../../../addons/ofxAccelerometer -I../../../../addons/ofxAccelerometer/src -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/rtaudio/include -I../../../../libs/glu/include_ios "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources/i386" "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources" -Wno-non-virtual-dtor -Wno-overloaded-virtual -F/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofPolyline.d" -c /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofPolyline.cpp -o "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofPolyline.o"36"7FB34EB8-3963-45E6-A2CB-731971F984DD-
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofQuaternion.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofQuaternion.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofRectangle.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/types/ofRectangle.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofShader.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofShader.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s385869315.162132
+e385869315.687252
+r1
+xCompileC
+x../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofShader.o
+x/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofShader.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compile /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofShader.cppb6a22903e6ffb641^f6eeaf03e6ffb641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-385869315#0#70#-0#--30"Apple LLVM compiler 3.0 Notice--0#0#0#-19%DVTDocumentLocation3@123"file://localhost/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofShader.cpp0000000000000000^3645"CompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofShader.o" ../../../openFrameworks/gl/ofShader.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O3 -Wno-return-type -Wnon-virtual-dtor -Woverloaded-virtual -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -funroll-loops -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/ofxiPhone_iphonesimulator_Release.hmap" -I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../addons/ofxiPhone -I../../../../addons/ofxiPhone/src -I../../../../addons/ofxiPhone/src/app -I../../../../addons/ofxiPhone/src/core -I../../../../addons/ofxiPhone/src/events -I../../../../addons/ofxiPhone/src/gl -I../../../../addons/ofxiPhone/src/sound -I../../../../addons/ofxiPhone/src/utils -I../../../../addons/ofxiPhone/src/video -I../../../../addons/ofxMultiTouch -I../../../../addons/ofxMultiTouch/src -I../../../../addons/ofxAccelerometer -I../../../../addons/ofxAccelerometer/src -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/rtaudio/include -I../../../../libs/glu/include_ios "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources/i386" "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources" -Wno-non-virtual-dtor -Wno-overloaded-virtual -F/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofShader.d" -c /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofShader.cpp -o "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofShader.o"36"4BC3764A-79D8-44FA-9794-9749E338A789-
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofSoundPlayer.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/sound/ofSoundPlayer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofSoundStream.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/sound/ofSoundStream.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofSystemUtils.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofSystemUtils.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofTessellator.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofTessellator.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s385869322.201256
+e385869324.168064
+r1
+xCompileC
+x../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofTessellator.o
+x/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofTessellator.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Compile /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofTessellator.cpp82a8330ae6ffb641^51112b0ce6ffb641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-385869322#0#70#-0#--30"Apple LLVM compiler 3.0 Notice--0#0#0#-19%DVTDocumentLocation3@134"file://localhost/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofTessellator.cpp0000000000000000^3682"CompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofTessellator.o" ../../../openFrameworks/graphics/ofTessellator.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O3 -Wno-return-type -Wnon-virtual-dtor -Woverloaded-virtual -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -funroll-loops -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/ofxiPhone_iphonesimulator_Release.hmap" -I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../addons/ofxiPhone -I../../../../addons/ofxiPhone/src -I../../../../addons/ofxiPhone/src/app -I../../../../addons/ofxiPhone/src/core -I../../../../addons/ofxiPhone/src/events -I../../../../addons/ofxiPhone/src/gl -I../../../../addons/ofxiPhone/src/sound -I../../../../addons/ofxiPhone/src/utils -I../../../../addons/ofxiPhone/src/video -I../../../../addons/ofxMultiTouch -I../../../../addons/ofxMultiTouch/src -I../../../../addons/ofxAccelerometer -I../../../../addons/ofxAccelerometer/src -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/rtaudio/include -I../../../../libs/glu/include_ios "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources/i386" "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources" -Wno-non-virtual-dtor -Wno-overloaded-virtual -F/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofTessellator.d" -c /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofTessellator.cpp -o "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofTessellator.o"36"FCA77676-CF42-401E-A9F6-CDF349AFA507-
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofTexture.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofTexture.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s385869315.601880
+e385869316.491010
+r1
+xCompileC
+x../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofTexture.o
+x/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofTexture.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofTexture.cppb83c9a03e6ffb641^64b17d04e6ffb641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-385869315#0#70#-0#--30"Apple LLVM compiler 3.0 Notice--0#0#0#-19%DVTDocumentLocation3@124"file://localhost/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofTexture.cpp0000000000000000^3650"CompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofTexture.o" ../../../openFrameworks/gl/ofTexture.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O3 -Wno-return-type -Wnon-virtual-dtor -Woverloaded-virtual -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -funroll-loops -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/ofxiPhone_iphonesimulator_Release.hmap" -I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../addons/ofxiPhone -I../../../../addons/ofxiPhone/src -I../../../../addons/ofxiPhone/src/app -I../../../../addons/ofxiPhone/src/core -I../../../../addons/ofxiPhone/src/events -I../../../../addons/ofxiPhone/src/gl -I../../../../addons/ofxiPhone/src/sound -I../../../../addons/ofxiPhone/src/utils -I../../../../addons/ofxiPhone/src/video -I../../../../addons/ofxMultiTouch -I../../../../addons/ofxMultiTouch/src -I../../../../addons/ofxAccelerometer -I../../../../addons/ofxAccelerometer/src -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/rtaudio/include -I../../../../libs/glu/include_ios "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources/i386" "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources" -Wno-non-virtual-dtor -Wno-overloaded-virtual -F/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofTexture.d" -c /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofTexture.cpp -o "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofTexture.o"36"CEB4A0F6-2705-44AF-8CCC-6E2E9A296635-
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofThread.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofThread.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofTrueTypeFont.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofTrueTypeFont.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s385869324.169328
+e385869327.171575
+r1
+xCompileC
+x../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofTrueTypeFont.o
+x/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofTrueTypeFont.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Compile /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofTrueTypeFont.cpp62812b0ce6ffb641^24f02b0fe6ffb641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-385869324#0#70#-0#--30"Apple LLVM compiler 3.0 Notice--0#0#0#-19%DVTDocumentLocation3@135"file://localhost/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofTrueTypeFont.cpp0000000000000000^3687"CompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofTrueTypeFont.o" ../../../openFrameworks/graphics/ofTrueTypeFont.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O3 -Wno-return-type -Wnon-virtual-dtor -Woverloaded-virtual -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -funroll-loops -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/ofxiPhone_iphonesimulator_Release.hmap" -I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../addons/ofxiPhone -I../../../../addons/ofxiPhone/src -I../../../../addons/ofxiPhone/src/app -I../../../../addons/ofxiPhone/src/core -I../../../../addons/ofxiPhone/src/events -I../../../../addons/ofxiPhone/src/gl -I../../../../addons/ofxiPhone/src/sound -I../../../../addons/ofxiPhone/src/utils -I../../../../addons/ofxiPhone/src/video -I../../../../addons/ofxMultiTouch -I../../../../addons/ofxMultiTouch/src -I../../../../addons/ofxAccelerometer -I../../../../addons/ofxAccelerometer/src -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/rtaudio/include -I../../../../libs/glu/include_ios "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources/i386" "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources" -Wno-non-virtual-dtor -Wno-overloaded-virtual -F/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofTrueTypeFont.d" -c /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/graphics/ofTrueTypeFont.cpp -o "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofTrueTypeFont.o"36"CCE2A194-4C7D-4E33-982C-1384EB857337-
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofURLFileLoader.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofURLFileLoader.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofUtils.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/utils/ofUtils.cpp normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofVbo.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofVbo.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s385869315.688554
+e385869316.406304
+r1
+xCompileC
+x../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofVbo.o
+x/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofVbo.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofVbo.cpp4165b003e6ffb641^d2fe6704e6ffb641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-385869315#0#70#-0#--30"Apple LLVM compiler 3.0 Notice--0#0#0#-19%DVTDocumentLocation3@120"file://localhost/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofVbo.cpp0000000000000000^3630"CompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofVbo.o" ../../../openFrameworks/gl/ofVbo.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O3 -Wno-return-type -Wnon-virtual-dtor -Woverloaded-virtual -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -funroll-loops -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/ofxiPhone_iphonesimulator_Release.hmap" -I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../addons/ofxiPhone -I../../../../addons/ofxiPhone/src -I../../../../addons/ofxiPhone/src/app -I../../../../addons/ofxiPhone/src/core -I../../../../addons/ofxiPhone/src/events -I../../../../addons/ofxiPhone/src/gl -I../../../../addons/ofxiPhone/src/sound -I../../../../addons/ofxiPhone/src/utils -I../../../../addons/ofxiPhone/src/video -I../../../../addons/ofxMultiTouch -I../../../../addons/ofxMultiTouch/src -I../../../../addons/ofxAccelerometer -I../../../../addons/ofxAccelerometer/src -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/rtaudio/include -I../../../../libs/glu/include_ios "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources/i386" "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources" -Wno-non-virtual-dtor -Wno-overloaded-virtual -F/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofVbo.d" -c /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofVbo.cpp -o "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofVbo.o"36"1DFA4585-FF31-4AFA-95BF-3578FB428492-
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofVboMesh.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofVboMesh.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s385869316.407626
+e385869317.104341
+r1
+xCompileC
+x../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofVboMesh.o
+x/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofVboMesh.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofVboMesh.cpp95806804e6ffb641^2db51a05e6ffb641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-385869316#0#70#-0#--30"Apple LLVM compiler 3.0 Notice--0#0#0#-19%DVTDocumentLocation3@124"file://localhost/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofVboMesh.cpp0000000000000000^3650"CompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofVboMesh.o" ../../../openFrameworks/gl/ofVboMesh.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O3 -Wno-return-type -Wnon-virtual-dtor -Woverloaded-virtual -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -funroll-loops -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/ofxiPhone_iphonesimulator_Release.hmap" -I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../addons/ofxiPhone -I../../../../addons/ofxiPhone/src -I../../../../addons/ofxiPhone/src/app -I../../../../addons/ofxiPhone/src/core -I../../../../addons/ofxiPhone/src/events -I../../../../addons/ofxiPhone/src/gl -I../../../../addons/ofxiPhone/src/sound -I../../../../addons/ofxiPhone/src/utils -I../../../../addons/ofxiPhone/src/video -I../../../../addons/ofxMultiTouch -I../../../../addons/ofxMultiTouch/src -I../../../../addons/ofxAccelerometer -I../../../../addons/ofxAccelerometer/src -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/rtaudio/include -I../../../../libs/glu/include_ios "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources/i386" "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources" -Wno-non-virtual-dtor -Wno-overloaded-virtual -F/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofVboMesh.d" -c /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/gl/ofVboMesh.cpp -o "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofVboMesh.o"36"18C136E9-F305-439E-BC5D-04B2AD0B5180-
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofVec2f.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofVec2f.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofVec4f.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/math/ofVec4f.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofVideoGrabber.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/video/ofVideoGrabber.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofVideoPlayer.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../openFrameworks/video/ofVideoPlayer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofiPhoneVideoGrabber.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/video/ofiPhoneVideoGrabber.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofiPhoneVideoPlayer.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/video/ofiPhoneVideoPlayer.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofxAccelerometer.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxAccelerometer/src/ofxAccelerometer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s385869305.192010
+e385869308.648310
+r1
+xCompileC
+x../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofxAccelerometer.o
+x/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxAccelerometer/src/ofxAccelerometer.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: -lpthread: 'linker' input unused when '-c' is present
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"Compile /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxAccelerometer/src/ofxAccelerometer.cpp596a31f9e5ffb641^f607a6fce5ffb641^-70"clang: warning: -lpthread: 'linker' input unused when '-c' is present1(32%IDEActivityLogContextInfoMessage2@69"Clang: warning: -lpthread: 'linker' input unused when '-c' is present-385869305#0#70#-0#--30"Apple LLVM compiler 3.0 Notice--0#0#0#-19%DVTDocumentLocation3@144"file://localhost/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxAccelerometer/src/ofxAccelerometer.cpp0000000000000000^3711"CompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofxAccelerometer.o" ../../../../addons/ofxAccelerometer/src/ofxAccelerometer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O3 -Wno-return-type -Wnon-virtual-dtor -Woverloaded-virtual -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -funroll-loops -Wno-deprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -gdwarf-2 -msse3 -mssse3 -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/ofxiPhone_iphonesimulator_Release.hmap" -I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/include -I../../../../libs/openFrameworks -I../../../../libs/openFrameworks/3d -I../../../../libs/openFrameworks/app -I../../../../libs/openFrameworks/communication -I../../../../libs/openFrameworks/events -I../../../../libs/openFrameworks/gl -I../../../../libs/openFrameworks/graphics -I../../../../libs/openFrameworks/math -I../../../../libs/openFrameworks/sound -I../../../../libs/openFrameworks/types -I../../../../libs/openFrameworks/utils -I../../../../libs/openFrameworks/video -I../../../../addons/ofxiPhone -I../../../../addons/ofxiPhone/src -I../../../../addons/ofxiPhone/src/app -I../../../../addons/ofxiPhone/src/core -I../../../../addons/ofxiPhone/src/events -I../../../../addons/ofxiPhone/src/gl -I../../../../addons/ofxiPhone/src/sound -I../../../../addons/ofxiPhone/src/utils -I../../../../addons/ofxiPhone/src/video -I../../../../addons/ofxMultiTouch -I../../../../addons/ofxMultiTouch/src -I../../../../addons/ofxAccelerometer -I../../../../addons/ofxAccelerometer/src -I../../../../libs/poco/include -I../../../../libs/freetype/include -I../../../../libs/freetype/include/freetype2 -I../../../../libs/fmodex/include -I../../../../libs/glew/include -I../../../../libs/FreeImage/include -I../../../../libs/tess2/include -I../../../../libs/rtaudio/include -I../../../../libs/glu/include_ios "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources/i386" "-I/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/DerivedSources" -Wno-non-virtual-dtor -Wno-overloaded-virtual -F/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios -D__MACOSX_CORE__ -lpthread -MMD -MT dependencies -MF "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofxAccelerometer.d" -c /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxAccelerometer/src/ofxAccelerometer.cpp -o "/Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofxAccelerometer.o"36"C51705EB-ACD4-426F-B797-EECA3E674B80-
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofxMultiTouch.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxMultiTouch/src/ofxMultiTouch.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofxOpenALSoundPlayer.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/sound/ofxOpenALSoundPlayer.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofxiOSEAGLView.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/core/ofxiOSEAGLView.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneAccelerometer.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/events/ofxiPhoneAccelerometer.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneAlerts.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/events/ofxiPhoneAlerts.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneAppDelegate.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/core/ofxiPhoneAppDelegate.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneCoreLocation.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneCoreLocation.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneExternalDisplay.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneExternalDisplay.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneExtras.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneExtras.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneImagePicker.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneImagePicker.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneKeyboard.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneKeyboard.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneMapKit.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneMapKit.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneMapKitDelegate.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/utils/ofxiPhoneMapKitDelegate.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneSoundStream.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/sound/ofxiPhoneSoundStream.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC "../../lib/ios/build/release/iPhone+OF Static Library.build/Objects-normal/i386/ofxiPhoneViewController.o" /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../../../addons/ofxiPhone/src/core/ofxiPhoneViewController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CLibtool /Users/imac/Desktop/artgame/libs/openFrameworksCompiled/project/ios/../../lib/ios/libofxiPhone_iphonesimulator_Release.a normal i386
+r0
+
